@@ -1,0 +1,30 @@
+
+
+any idea? 
+
+Thanks,
+Stan 
+
+
+
+
+> On Oct 29, 2020, at 2:34 PM, Stan Taov <stastaov@gmail.com> wrote:
+> 
+> I see what you mean, but you see I don’t think that groups are connected, I think they are kinda independent  
+>  let’s say people with higher salary eat more burgers in restaurants but an other group will show let’s say burgers mostly ordered by female customers. 
+> so it doesn’t mean that female customers have higher salary and eat more burgers. 
+> 
+> so each group have relative distribution against whole population, so I don’t think there are connections between groups. 
+> 
+>  
+> 
+>> On Oct 29, 2020, at 2:24 PM, Luiz Augusto de Carvalho - WANOPT <lcarvalho@wanopt.com> wrote:
+>> 
+>> Stan, to rebuilt the original database (or something similar) we have to follow the strategy described and generate a random rows 
+>> Take a look the initial organization, I will try to code it and generate the database base but is laborious. I have somethings to do today but maybe tomorrow
+>> Cheers
+>> Luiz
+>>  
+>> <Pasta2.xlsx>
+> 
+
